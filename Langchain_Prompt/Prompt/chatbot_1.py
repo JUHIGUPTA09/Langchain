@@ -1,0 +1,19 @@
+from langchain_community.chat_models import ChatOllama
+
+
+model=ChatOllama(model="llama3")
+
+chat_history=[]
+
+while True:
+    user_input=input("You :")
+    chat_history.append(user_input)
+    if user_input=="exit":
+        break
+    else:
+        result=model.invoke(chat_history)
+        chat_history.append(result.content)
+        print("AI : ",result.content)
+
+print(chat_history)
+        

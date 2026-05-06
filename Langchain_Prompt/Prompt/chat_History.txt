@@ -1,0 +1,26 @@
+HumanMessage: Hi! I'd like to order some makeup products.
+AIMessage: Hello! Welcome to GlowCart — your one-stop makeup destination! 💄✨
+I'd love to help you place an order. Could you please browse our collection and let me know which products you'd like to order along with the quantity?
+HumanMessage: I want to order the following:
+1. Lakme 9to5 Primer + Matte Lipstick (Shade: Red Coat) - Qty: 2
+2. Maybelline Fit Me Foundation (Shade: 128 Warm Nude) - Qty: 1
+3. NYX Micro Brow Pencil (Shade: Brunette) - Qty: 1
+ 
+AIMessage: Great choices! Here's a summary of your order:
+ 
+  -----------------------------------------------
+  | Product                          | Qty | Price  |
+  -----------------------------------------------
+  | Lakme 9to5 Lipstick - Red Coat   |  2  | ₹550   |
+  | Maybelline Fit Me Foundation 128 |  1  | ₹399   |
+  | NYX Micro Brow Pencil - Brunette |  1  | ₹750   |
+  -----------------------------------------------
+  | Subtotal                         |     | ₹1,699 |
+  | Delivery Charges                 |     | ₹49    |
+  | Total Payable                    |     | ₹1,748 |
+  -----------------------------------------------
+ 
+Would you like to proceed with this order? Please confirm your delivery address and preferred payment method. 😊
+HumanMessage: Yes, confirm the order. Delivery address: 204, Lotus Apartments, Andheri West, Mumbai - 400053. Payment via UPI.
+ 
+AIMessage: Your order has been successfully placed!
